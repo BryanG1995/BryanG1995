@@ -9,3 +9,4 @@
   <img height=151 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=BryanG1995&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
+![mapache-pedro-pé](https://github.com/BryanG1995/BryanG1995/assets/14168094/3ac7e6e0-24b4-4801-864d-9c2883e4a092)
